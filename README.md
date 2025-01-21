@@ -1,3 +1,4 @@
+**🚧 Under renovation 🚧**
 # Hi there, I'm Vanessa! 🤗
 Currently studying software engineering at 42 Berlin.
 Welcome to my page!
@@ -7,7 +8,6 @@ Favorite project so far: [MiniRT](https://github.com/vados-sa/42MiniRT)
 
 The hardest project I've done: [minishell](https://github.com/vados-sa/42minishell)
 
-**🚧 Under renovation 🚧**
 
 # Skills
 <p align="center">
