@@ -1,6 +1,7 @@
 **🚧 Under renovation 🚧**
 # Hi there, I'm Vanessa! 🤗
 Currently studying software engineering at 42 Berlin.
+
 Welcome to my page!
 
 ### Check out:
@@ -19,20 +20,20 @@ The hardest project I've done: [minishell](https://github.com/vados-sa/42minishe
 # Projects from 42
 ## Common Core
 
-# Level00
+### Level00
 - [Libft]()
-# Level01
+### Level01
 - [ft_printf]()
 - [get_next_line]()
 - [BornToBeRoot]()
-# Level02
+### Level02
 - [push_swap]()
 - [so_long]()
 - [minitalk]()
-# Level03
+### Level03
 - [minishell](https://github.com/vados-sa/42minishell)
 - [philosophers]()
-# Level04
+### Level04
 - [MiniRT](https://github.com/vados-sa/42MiniRT)
 - [NetPractice]()
 - [C++ 00 to 04]() -> to be started.
