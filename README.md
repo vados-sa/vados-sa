@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Vanessa! 🤗
+Currently studying software engineering at 42 Berlin.
+Welcome to my page!
 
-<!--
-**vados-sa/vados-sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Check out:
+Favorite project so far: [MiniRT](https://github.com/vados-sa/42MiniRT)
+The hardest project I've done: [minishell](https://github.com/vados-sa/42minishell)
 
-Here are some ideas to get you started:
+**🚧 Under renovation 🚧**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,git,github,bash,linux,vim,vscode,notion" />
+  </a>
+</p>
+
+# Projects from 42
+## Common Core
+
+# Level00
+- [Libft]()
+# Level01
+- [ft_printf]()
+- [get_next_line]()
+- [BornToBeRoot]()
+# Level02
+- [push_swap]()
+- [so_long]()
+- [minitalk]()
+# Level03
+- [minishell](https://github.com/vados-sa/42minishell)
+- [philosophers]()
+# Level04
+- [MiniRT](https://github.com/vados-sa/42MiniRT)
+- [NetPractice]()
+- [C++ 00 to 04]() -> to be started.
