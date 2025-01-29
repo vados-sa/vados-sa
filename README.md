@@ -14,7 +14,7 @@ Welcome to my page!
 # Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,git,github,bash,linux,vim,vscode,notion" />
+    <img src="https://skillicons.dev/icons?i=c,git,github,bash,linux,vim,vscode,notion,python" />
   </a>
 </p>
 
@@ -22,21 +22,11 @@ Welcome to my page!
 # Projects from 42
 
 ## Common Core
+The Common Core consists of seven stages, and starting from Level 02, each stage also includes an exam.
 
-### Level00
-- [Libft]()
-### Level01
-- [ft_printf]()
-- [get_next_line]()
-- [BornToBeRoot]()
-### Level02
-- [push_swap]()
-- [so_long]()
-- [minitalk]()
-### Level03
-- [minishell](https://github.com/vados-sa/42minishell)
-- [philosophers]()
-### Level04
-- [MiniRT](https://github.com/vados-sa/42MiniRT)
-- [NetPractice]()
-- [C++ 00 to 04]() -> to be started.
+| Level 00        | Level 01        | Level 02        | Level 03        | Level 04        |
+|----------------|----------------|----------------|----------------|----------------|
+| [Libft]()      | [ft_printf]()   | [push_swap]()  | [minishell](https://github.com/vados-sa/42minishell) | [MiniRT](https://github.com/vados-sa/42MiniRT) |
+|                | [get_next_line]() | [so_long]()   | [philosophers]() | [NetPractice]() |
+|                | [BornToBeRoot]() | [minitalk]()   |                 | [C++ 00 to 04]() -> to be started. |
+
