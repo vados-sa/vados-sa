@@ -1,4 +1,3 @@
-**🚧 Under renovation 🚧**
 # Hi there, I'm Vanessa! 🤗
 Currently studying software engineering at 42 Berlin.
 
