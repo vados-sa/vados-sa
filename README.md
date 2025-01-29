@@ -25,7 +25,7 @@ The Common Core consists of seven stages, and starting from Level 02, each stage
 
 | Level 00        | Level 01        | Level 02        | Level 03        | Level 04        |
 |----------------|----------------|----------------|----------------|----------------|
-| [Libft]()      | [ft_printf]()   | [push_swap]()  | [minishell](https://github.com/vados-sa/42minishell) | [MiniRT](https://github.com/vados-sa/42MiniRT) |
+| [Libft](https://github.com/vados-sa/Libft)      | [ft_printf]()   | [push_swap]()  | [minishell](https://github.com/vados-sa/42minishell) | [MiniRT](https://github.com/vados-sa/42MiniRT) |
 |                | [get_next_line]() | [so_long]()   | [philosophers]() | [NetPractice]() |
 |                | [BornToBeRoot]() | [minitalk]()   |                 | [C++ 00 to 04]() -> to be started. |
 
