@@ -27,5 +27,5 @@ The Common Core consists of seven levels, and starting from Rank02, each level a
 |----------------|----------------|----------------|----------------|----------------|
 | [Libft](https://github.com/vados-sa/Libft)      | [ft_printf](https://github.com/vados-sa/ft_printf/tree/main)   | [push_swap]()  | [minishell](https://github.com/vados-sa/42minishell) | [MiniRT](https://github.com/vados-sa/42MiniRT) |
 |                | [get_next_line](https://github.com/vados-sa/get_next_line) | [so_long]()   | [philosophers]() | [NetPractice]() |
-|                | [BornToBeRoot](https://github.com/vados-sa/BornToBeRoot) | [minitalk]()   |                 | [C++ 00 to 04]() -> to be started. |
+|                | [BornToBeRoot](https://github.com/vados-sa/BornToBeRoot) | [minitalk](https://github.com/vados-sa/minitalk)   |                 | [C++ 00 to 04]() -> to be started. |
 
