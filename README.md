@@ -9,7 +9,7 @@ Welcome to my page!
 
 + The hardest project I've done: [minishell](https://github.com/vados-sa/42minishell)
 
-+ Currently working on: [Workout Accountability Web Application](https://github.com/vados-sa/Workout-Accountability-App)
++ Currently working on: [Workout Tracking Web Application](https://github.com/vados-sa/Workout-Tracking-App)
 
 
 # Skills
