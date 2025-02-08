@@ -1,5 +1,10 @@
-# Hi there, I'm Vanessa! 🤗
-Currently studying software engineering at 42 Berlin.
+## Hi there! 🌻 
+
+I'm **Vanessa**, a Brazilian-German software engineering student at **42 Berlin**. I don’t come from a traditional tech background, but I fell in love with programming after completing the **42 Piscine in summer 2023** and starting the **Core Curriculum in November 2023**. 🏊‍♂️
+
+Outside of coding, I’m part of a **book club** with my girlfriends 📚, and I love **working out & trying new sports**. Right now, I’m training for **Hyrox**, a fitness race that challenges both strength and endurance! 💪🔥  
+
+Always open to learning and collaborating — let’s connect! 💫  
 
 Welcome to my page!
 
