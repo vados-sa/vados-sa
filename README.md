@@ -28,7 +28,7 @@ Welcome to my page!
 # Projects from 42
 
 ## Common Core
-The Common Core consists of seven levels, and starting from Rank02, each level also includes an exam.
+The Common Core consists of seven levels, and, starting from Rank02, each level also includes an exam.
 
 | Rank00        | Rank01        | Rank02        | Rank03        | Rank04        |
 |----------------|----------------|----------------|----------------|----------------|
