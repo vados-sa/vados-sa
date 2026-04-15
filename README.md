@@ -13,7 +13,7 @@ Welcome to my page!
 
 ### Check out:
 + Favorite project so far: [MiniRT](https://github.com/vados-sa/42MiniRT)
-+ Currently working on: [ft_ranscendence](https://github.com/viridian-green/transcendence)
++ Currently working on: [ft_transcendence](https://github.com/viridian-green/transcendence)
 
 
 # Skills
@@ -31,7 +31,7 @@ The Common Core consists of seven levels, and, starting from Rank02, each level 
 
 | Rank00        | Rank01        | Rank02        | Rank03        | Rank04        | Rank05        | Rank06
 |----------------|----------------|----------------|----------------|----------------|----------------|----------------|
-| [Libft](https://github.com/vados-sa/Libft)      | [ft_printf](https://github.com/vados-sa/ft_printf/tree/main)   | [push_swap](https://github.com/vados-sa/push_swap)  | [minishell](https://github.com/vados-sa/42minishell) | [MiniRT](https://github.com/vados-sa/42MiniRT) | [Webserv](https://github.com/vados-sa/Webserv) | [ft_ranscendence](https://github.com/viridian-green/transcendence)
+| [Libft](https://github.com/vados-sa/Libft)      | [ft_printf](https://github.com/vados-sa/ft_printf/tree/main)   | [push_swap](https://github.com/vados-sa/push_swap)  | [minishell](https://github.com/vados-sa/42minishell) | [MiniRT](https://github.com/vados-sa/42MiniRT) | [Webserv](https://github.com/vados-sa/Webserv) | [ft_transcendence](https://github.com/viridian-green/transcendence)
 |                | [get_next_line](https://github.com/vados-sa/get_next_line) | [so_long](https://github.com/vados-sa/so_long)   | [philosophers](https://github.com/vados-sa/Philosophers) | [Net_Practice](https://github.com/vados-sa/Net_Practice) | [Inception](https://github.com/vados-sa/Inception) |
 |                | [BornToBeRoot](https://github.com/vados-sa/BornToBeRoot) | [minitalk](https://github.com/vados-sa/minitalk)   |                 | [CPP00 to 04](https://github.com/vados-sa/CPP) | [CPP05 to 09](https://github.com/vados-sa/CPP) |
 
